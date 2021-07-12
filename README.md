@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jade or you can use my wierd nickname @StnGrUnc0 | JDreamer
+- 👋 Hi, I’m Jade or you can use my wierd nickname StnGrUnc0 | JDreamer
 - 👀 I’m interested in developing mobile apps
 - 🌱 I’m currently learning React / React Native
 - 📫 If you want to reach me for some reason use link in my profile
